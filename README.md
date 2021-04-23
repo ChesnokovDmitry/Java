@@ -1,1 +1,1 @@
-# JavaRushTasks
+# Проекты с онлайн курсов JavaRush
