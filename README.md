@@ -1,1 +1,1 @@
-# Проекты с курсов JavaRush
+Online course projects
